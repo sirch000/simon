@@ -1,0 +1,19 @@
+{
+  "name": "simon",
+  "version": "1.0.0",
+  "description": "Our version of the classic simon game",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./src -p 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonderbean/simon.git"
+  },
+  "author": "wonderbean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wonderbean/simon/issues"
+  },
+  "homepage": "https://github.com/wonderbean/simon#readme"
+}
