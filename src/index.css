@@ -1,0 +1,42 @@
+body { 
+
+    margin: 0px;
+    background-color: black;
+
+}
+
+#container {
+padding-top: 25px;
+width: 100%;   
+height: 100%;
+
+}
+
+#main {
+
+width: 750px;
+height: 100%;
+margin: 0 auto;
+background-color: azure;
+
+}
+
+
+
+.button {
+
+    width: 332px;
+    height: 332px;
+    float: left;
+  
+    
+
+}
+
+a:link, a:visited {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
