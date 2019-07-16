@@ -1,42 +1,35 @@
+* {
+    background: black;
+}
+
 body { 
-
     margin: 0px;
-    background-color: black;
-
+    background: black;
 }
 
 #container {
-padding-top: 25px;
-width: 100%;   
-height: 100%;
-
+    margin-top: 25px;
+    background: black;
 }
 
-#main {
-
-width: 750px;
-height: 100%;
-margin: 0 auto;
-background-color: azure;
-
+.button:hover {
+    cursor: pointer;
 }
 
-
-
-.button {
-
+.button:active {
+   opacity: .5;
+   background: black;
+}
+img {
     width: 332px;
     height: 332px;
-    float: left;
-  
-    
-
+    padding: 0;
+    margin: 0;
+    background: black;
 }
 
-a:link, a:visited {
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-  }
-  
+.row {
+    display: flex;
+    justify-content: center;
+    background: black;
+}
