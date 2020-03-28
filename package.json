@@ -4,19 +4,16 @@
   "description": "Our version of the classic simon game",
   "main": "index.js",
   "scripts": {
-    "start": "http-server ./src -p 8083"
+    "start": "http-server ./src -p 8080"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wonderbean/simon.git"
   },
-  "author": "",
+  "author": "wonderbean",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wonderbean/simon/issues"
   },
-  "homepage": "https://github.com/wonderbean/simon#readme",
-  "dependencies": {
-    "http-server": "^0.12.1"
-  }
+  "homepage": "https://github.com/wonderbean/simon#readme"
 }
