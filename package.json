@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wonderbean/simon/issues"
   },
-  "homepage": "https://github.com/wonderbean/simon#readme"
+  "homepage": "https://github.com/wonderbean/simon#readme",
+  "devDependencies": {
+    "http-server": "^0.12.1"
+  }
 }

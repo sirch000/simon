@@ -1,0 +1,35 @@
+* {
+    background: black;
+}
+
+body { 
+    margin: 0px;
+    background: black;
+}
+
+#container {
+    margin-top: 25px;
+    background: black;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
+.button:active {
+   opacity: .5;
+   background: black;
+}
+img {
+    width: 332px;
+    height: 332px;
+    padding: 0;
+    margin: 0;
+    background: black;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    background: black;
+}
